@@ -5,7 +5,9 @@
 }
 
 /* ===== Banner Section ===== */
-
+.section{
+    margin-bottom: 10vh;
+}
 .banner-img{
     width: 100vw;
     height: 100vh;
@@ -40,4 +42,31 @@ p{
 .banner-button:hover{
     background-image: linear-gradient(rgb(125, 252, 41), rgb(0, 139, 12));
     color: white;.
+}
+
+/* ===== Amount Section ===== */
+
+.as-sec{
+    text-align: center;
+}
+
+.as-txt-area{
+    margin-bottom: 5vh;
+}
+.as-para{
+    color: gray;
+    font-size: 1.5vw;
+    width: 70vw;
+    margin: auto;
+    margin-bottom: 20vh;
+}
+.as-tk{
+    color: gray;
+    width: 100vw;
+    text-align: center;
+}
+.tk{
+    background-color: #ddd;
+    padding: 2vw;
+    font-size: 2vw;
 }
