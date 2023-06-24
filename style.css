@@ -2,6 +2,7 @@
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0;
     padding: 0;
+
 }
 
 /* ===== Banner Section ===== */
@@ -33,7 +34,7 @@ p{
     font-weight: bold;
     background-color: rgb(235, 58, 38);
     padding: 3vh 4vw;
-    border-radius: 3vw;
+    border-radius: 2vw;
     font-size: 3vw; 
 }
 .banner-text{
@@ -55,18 +56,22 @@ p{
 .as-para{
     color: gray;
     font-size: 1.5vw;
-    width: 70%;
+    width: 50%;
     margin: auto;
     margin-bottom: 10vh;
 }
 .as-tk{
     display: flex;
-    width: fit-content;
-    margin: 0 auto;
+    width: 50%;
+    margin: auto;
 }
 .tk{
-    background-color: #ddd;
+    background-color: rgb(247, 247, 247);
     color: gray;
-    padding: 30px;
-    margin: 10px;
+    padding: 2vw;
+    margin: 1vw;
+}
+#as-s-para{
+    border: 2px solid salmon;
+    color: salmon;
 }
