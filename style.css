@@ -48,7 +48,6 @@ p{
 
 .as-sec{
     text-align: center;
-    width: 100%;
 }
 .as-txt-area{
     margin-bottom: 5vh;
@@ -62,9 +61,8 @@ p{
 }
 .as-tk{
     display: flex;
-    width: 100vw;
-    
-    
+    width: fit-content;
+    margin: 0 auto;
 }
 .tk{
     background-color: #ddd;
