@@ -20,22 +20,22 @@
     color: white;
 }
 h1{
-    font-size: 65px;
+    font-size: 5vw;
 }
 p{
-    font-size: 25px;
+    font-size: 2vw;
 }
 .banner-button{
     text-decoration: none;
     color: white;
     font-weight: bold;
     background-color: rgb(235, 58, 38);
-    padding: 25px 60px;
-    border-radius: 20px;
-    font-size: 30px 
+    padding: 3vh 4vw;
+    border-radius: 3vw;
+    font-size: 3vw; 
 }
 .banner-text{
-    margin-bottom: 80px;
+    margin-bottom: 10vh;
 }
 .banner-button:hover{
     background-image: linear-gradient(rgb(125, 252, 41), rgb(0, 139, 12));
