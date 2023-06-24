@@ -50,9 +50,10 @@ h1{
 .amount-container{
     text-align: center;
     width: 50vw;
-    margin: auto;
-
-    
+    margin: auto; 
+}
+.as-h1{
+    margin-bottom: 2vh;
 }
 .as-txt-area{
     margin-bottom: 5vh;
@@ -60,7 +61,7 @@ h1{
 .as-para{
     color: gray;
     font-size: 1.5vw;
-    margin-bottom: 10vh;
+    margin-bottom: 5vh;
 }
 .as-tk{
     display: flex;
@@ -83,7 +84,7 @@ h1{
     box-sizing: border-box; 
     border: none;
     border-bottom: 2px solid #DADADA;
-    margin-bottom: 5vh;
+    margin-bottom: 10vh;
     text-align: center;
     font-size: 2vw;
     color: #B3B3B3;
@@ -92,27 +93,48 @@ h1{
     font-size: 1.5vw;
 }
 .amount-container{
-    margin-bottom: 10vh;
+    margin-bottom: 15vw;
 }
 
 /* ===== Our Donation Plan Section ===== */
 
 .odp-container{
-    width: 100vw;
     text-align: center;
 }
-
+.odp-h1{
+    margin-bottom: 1vw;
+}
 .odp-para-color{
     color: gray;
     font-size: 1.5vw;
     width: 50vw;
     margin: auto;
+    margin-bottom: 6vw;
 }
 
 .odp-main-card-div{
     display: flex;
-    width: 100vw;
+    margin: auto;
 }
 .cmn-card{
-    padding: 9vw;
+    padding: 5vh;
+    text-align: justify;
+    width: 50vw;
+}
+.odp-blue-card{
+    background-color: #9de6ee;
+    margin: 1vw;
+    margin-left: 10vw;
+    padding: 3vw;
+}
+.odp-red-card{
+    background-color: #e6bbbb;
+    margin: 1vw;
+    padding: 3vw;
+}
+.odp-yello-card{
+    background-color: rgb(231, 231, 186);
+    margin: 1vw;
+    margin-right:10vw;
+    padding: 3vw;
 }
