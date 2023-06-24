@@ -141,3 +141,26 @@ h1{
     padding: 3vw;
     border-radius: 0.75vw;
 }
+
+/* ===== Get Update Section ===== */
+
+.gu-main-div{
+    margin: auto;
+    text-align: center;
+}
+.sub-div{
+    display: flex;
+    width: 25vw;
+    margin: 0 auto;
+}
+#gu-a{
+    background-color: salmon;
+    text-decoration: none;
+    padding: 0.9vw;
+    font-size: 1.5vw;
+    color: white; 
+    font-weight: 700;
+
+}
+.gu-input-width{
+}
