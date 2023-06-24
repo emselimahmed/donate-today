@@ -86,7 +86,7 @@ h1{
     border-bottom: 2px solid #DADADA;
     margin-bottom: 10vh;
     text-align: center;
-    font-size: 2vw;
+    font-size: 1.5vw;
     color: #B3B3B3;
 }
 .as-main-button{
@@ -126,15 +126,18 @@ h1{
     margin: 1vw;
     margin-left: 10vw;
     padding: 3vw;
+    border-radius: 0.75vw;
 }
 .odp-red-card{
     background-color: #e6bbbb;
     margin: 1vw;
     padding: 3vw;
+    border-radius: 0.75vw;
 }
 .odp-yello-card{
     background-color: rgb(231, 231, 186);
     margin: 1vw;
     margin-right:10vw;
     padding: 3vw;
+    border-radius: 0.75vw;
 }
