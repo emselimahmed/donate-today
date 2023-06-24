@@ -6,8 +6,8 @@
 }
 
 /* ===== Banner Section ===== */
-.section{
-    margin-bottom: 10vh;
+.container{
+    margin-bottom: 15vh;
 }
 .banner-img{
     width: 100vw;
@@ -47,7 +47,7 @@ p{
 
 /* ===== Amount Section ===== */
 
-.as-sec{
+.amount-container{
     text-align: center;
     width: 50vw;
     margin: auto;
@@ -85,11 +85,9 @@ p{
     border-bottom: 2px solid #DADADA;
     margin-bottom: 5vh;
     text-align: center;
-    font-size: 4vh;
+    font-size: 2vw;
     color: #B3B3B3;
 }
 .as-main-button{
-    width: 10vw;
-    height: 2vh;
-    font-size: 20px;
+    font-size: 2vw;
 }
