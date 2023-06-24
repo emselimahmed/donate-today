@@ -108,3 +108,11 @@ h1{
     width: 50vw;
     margin: auto;
 }
+
+.odp-main-card-div{
+    display: flex;
+    width: 100vw;
+}
+.cmn-card{
+    padding: 9vw;
+}
