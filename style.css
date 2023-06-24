@@ -48,25 +48,27 @@ p{
 
 .as-sec{
     text-align: center;
+    width: 100%;
 }
-
 .as-txt-area{
     margin-bottom: 5vh;
 }
 .as-para{
     color: gray;
     font-size: 1.5vw;
-    width: 70vw;
+    width: 70%;
     margin: auto;
-    margin-bottom: 20vh;
+    margin-bottom: 10vh;
 }
 .as-tk{
-    color: gray;
+    display: flex;
     width: 100vw;
-    text-align: center;
+    
+    
 }
 .tk{
     background-color: #ddd;
-    padding: 2vw;
-    font-size: 2vw;
+    color: gray;
+    padding: 30px;
+    margin: 10px;
 }
