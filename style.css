@@ -145,22 +145,40 @@ h1{
 /* ===== Get Update Section ===== */
 
 .gu-main-div{
-    margin: auto;
     text-align: center;
 }
-.sub-div{
-    display: flex;
-    width: 25vw;
+
+.gu-a{
+    text-decoration: none;
+    background-color: rgb(255, 0, 0);
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 0;
+}
+.gu-width{
+    width: 50%; 
+    margin: 0 auto;   
+}
+.gu-sub-div{
+    width: 50%;
+    padding: 60px;
+    background-color: #f8e5b2;
+    border-radius: 10px;
     margin: 0 auto;
 }
-#gu-a{
-    background-color: salmon;
-    text-decoration: none;
-    padding: 0.9vw;
-    font-size: 1.5vw;
-    color: white; 
-    font-weight: 700;
 
+.gu-input-level{
+    font-size: 25px;
 }
-.gu-input-width{
+
+footer{
+    background-color: black;
+    text-align: center;
+}
+.color{
+    color: white;
+}
+.footer-div{
+    padding: 30px;
 }
