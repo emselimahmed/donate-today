@@ -23,7 +23,7 @@
     color: white;
 }
 h1{
-    font-size: 5vw;
+    font-size: 4vw;
 }
 #banner-para{
     font-size: 2vw;
@@ -178,6 +178,9 @@ footer{
 }
 .color{
     color: white;
+}
+.footer-h1{
+    font-family: Playball;
 }
 .footer-div{
     padding: 30px;
